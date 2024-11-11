@@ -1,10 +1,12 @@
 # FTI
 Repositório de exemplo para aula de FTI
+
 # Faculdade de Tecnologia de Tatuí - Fatec
 
 ## Curso de Gestão da Tecnologia da Informação
 
 ---
+
 # Aprendendo Git & GitHub
 
 
